@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Ferris</title>
+    <link>https://daveferbear.github.io/</link>
+    <description>Recent content on David Ferris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 May 2021 09:29:47 -0400</lastBuildDate><atom:link href="https://daveferbear.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://daveferbear.github.io/docs/about/</link>
+      <pubDate>Sun, 09 May 2021 09:29:47 -0400</pubDate>
+      
+      <guid>https://daveferbear.github.io/docs/about/</guid>
+      <description>About Me #  I am a software engineer and entrepreneur from Toronto, Canada. I studied mechatronics engineering at the University of Waterloo and founded phonic.ai.
+Elsewhere #   daveferbear on Github  </description>
+    </item>
+    
+    <item>
+      <title>Bookshelf</title>
+      <link>https://daveferbear.github.io/docs/books/</link>
+      <pubDate>Sun, 09 May 2021 09:29:47 -0400</pubDate>
+      
+      <guid>https://daveferbear.github.io/docs/books/</guid>
+      <description>Bookshelf #  Biographies &amp;amp; Autobiographies #   Disturbing the Universe by Freeman Dyson Steve Jobs by Walter Isaacson Einstein: His Life and Universe by Walter Isaacson  Math &amp;amp; Science #   The Information: A History, a Theory, a Flood by James Gleick Chaos: Making a New Science by James Gleick  Technology + Culture #   The Age of Surveillance Capitalism by Shoshana Zuboff  Fiction #   Dune  </description>
+    </item>
+    
+  </channel>
+</rss>
