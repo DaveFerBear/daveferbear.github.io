@@ -6,15 +6,24 @@
     <description>Recent content on David Ferris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 May 2021 09:29:47 -0400</lastBuildDate><atom:link href="https://dferris.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dferris.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing</title>
+      <link>https://dferris.me/docs/writing/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dferris.me/docs/writing/</guid>
+      <description>Writing Fraud &amp;amp; The Benefits of Centralization Y Combinator versus Creative Destruction Lab Some ideas to generalize survey analysis A Story about Technology &amp;amp; Impact Why Your Next Survey Might Have A Microphone </description>
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>https://dferris.me/docs/about/</link>
       <pubDate>Sun, 09 May 2021 09:29:47 -0400</pubDate>
       
       <guid>https://dferris.me/docs/about/</guid>
-      <description>About Me #  I am a software engineer and entrepreneur from Toronto, Canada. I studied mechatronics engineering at the University of Waterloo and founded phonic.ai.
-Elsewhere #   daveferbear on Github  </description>
+      <description>About Me I am a software engineer and entrepreneur from Toronto, Canada. I studied mechatronics engineering at the University of Waterloo and founded phonic.ai.
+Elsewhere daveferbear on Github </description>
     </item>
     
     <item>
@@ -23,7 +32,7 @@ Elsewhere #   daveferbear on Github  </description>
       <pubDate>Sun, 09 May 2021 09:29:47 -0400</pubDate>
       
       <guid>https://dferris.me/docs/books/</guid>
-      <description>Bookshelf #  Biographies &amp;amp; Autobiographies #   Disturbing the Universe by Freeman Dyson Steve Jobs by Walter Isaacson Einstein: His Life and Universe by Walter Isaacson  Math &amp;amp; Science #   The Information: A History, a Theory, a Flood by James Gleick Chaos: Making a New Science by James Gleick The Signal and the Noise by Nate Silver The Master Algorithm by Pedro Domingos Superintelligence: Paths, Dangers, Strategies by Nick Bostrom Nudge by Richard Thaler and Cass Sunstein The Road to Reality by Roger Penrose Incerto (Series) by Nassim Taleb Lost in Math by Sabine Hossenfelder The Alchemy of Air: A Jewish Genius, a Doomed Tycoon, and the Scientific Discovery That Fed the World but Fueled the Rise of Hitler by Thomas Hager  Technology + Culture #   The Age of Surveillance Capitalism by Shoshana Zuboff World Without Mind by Franklin Foer Secrets of Sandhill Road by Scott Kupor The Innovator&amp;rsquo;s Dilemna by Clayton Christensen Maximum City by Suketu Mehta Winners Take All: The Elite Charade of Changing the World by Anand Giridharadas  Textbooks #   C++ Primer (5th Edition) by Stanley B.</description>
+      <description>Bookshelf Biographies &amp;amp; Autobiographies Disturbing the Universe by Freeman Dyson Steve Jobs by Walter Isaacson Einstein: His Life and Universe by Walter Isaacson Math &amp;amp; Science The Information: A History, a Theory, a Flood by James Gleick Chaos: Making a New Science by James Gleick The Signal and the Noise by Nate Silver The Master Algorithm by Pedro Domingos Superintelligence: Paths, Dangers, Strategies by Nick Bostrom Nudge by Richard Thaler and Cass Sunstein The Road to Reality by Roger Penrose Incerto (Series) by Nassim Taleb Lost in Math by Sabine Hossenfelder The Alchemy of Air: A Jewish Genius, a Doomed Tycoon, and the Scientific Discovery That Fed the World but Fueled the Rise of Hitler by Thomas Hager Technology + Culture The Age of Surveillance Capitalism by Shoshana Zuboff World Without Mind by Franklin Foer Secrets of Sandhill Road by Scott Kupor The Innovator&amp;rsquo;s Dilemna by Clayton Christensen Maximum City by Suketu Mehta Winners Take All: The Elite Charade of Changing the World by Anand Giridharadas Textbooks C++ Primer (5th Edition) by Stanley B.</description>
     </item>
     
   </channel>
